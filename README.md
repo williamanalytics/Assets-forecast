@@ -1,6 +1,6 @@
 # 🪙 Assets-forecast 🪙 
 
-In this project was used Prophet model by Facebook Prophet (Machine Learning). It is an artificial intelligence based on the idea that systems can learn from data, basically using Fourier series.
+In this project was used Prophet model by Facebook Prophet (Machine Learning). It is an artificial intelligence based on the idea that systems can learn from data, basically using Fourier series with the data since "2015-01-01" with objective accumulate enough data to give an accurate "price action" with its respective support and resistance without to take too slow the downloading of data.
 
 Basically, it consists to fill out into the box any kind of global ticker and discover through Prophet ML a period of 18 months ahead the spot price.
 
