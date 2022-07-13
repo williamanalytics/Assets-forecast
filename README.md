@@ -4,9 +4,10 @@ In this project was used Prophet model by Facebook Prophet (Machine Learning). I
 
 Basically, it consists to fill out into the box any kind of global ticker and discover through Prophet ML a period of 18 months ahead the spot price.
 
+# Disclamer: #
+
 However, the market is driven by expectations, some announcements affect and move with the sentiment market, so this framework shows the possibility where the price can goes not in a short period of time, but aim the mid and long tendency on the graph.
 
-Disclamer:
 This is not financial tool for personal investment decision is only for educational purpose.
 
 ## 💻 Lybrary 💻
