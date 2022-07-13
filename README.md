@@ -21,6 +21,6 @@ This is not financial tool for personal investment decision is only for educatio
 
 1 - Click the link below.
 
-2 - Copy & paste some tickers of your interest or click the finance yahoo page link for searching it.
+2 - Copy & paste some tickers of your interest or click the finance Yahoo page link for searching it.
 
 [You can reach the application here](https://williamanalytics-assets-forecast-dapp1-a7lwun.streamlitapp.com/)
