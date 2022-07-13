@@ -10,7 +10,7 @@ However, the market is driven by expectations, some announcements affect and mov
 
 This is not financial tool for personal investment decision is only for educational purpose.
 
-## 💻 Lybrary 💻
+## 💻 Libraries 💻
 * Python 3.9
 * Plotly
 * Prophet
