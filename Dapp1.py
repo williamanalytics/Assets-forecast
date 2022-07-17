@@ -24,7 +24,7 @@ from prophet.plot import add_changepoints_to_plot
 # In[6]:
 
 
-st.title("Welcome to the predictions prices!")
+st.title("Welcome to the prices predictions !")
 image = Image.open('BB.jpg')
 st.image(image)  
 sel_col, disp_col = st.columns((3, 1 ))
